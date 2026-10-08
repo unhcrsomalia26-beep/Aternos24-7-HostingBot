@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
-    "port": 44019,
+    "ip": "BlushKiss-I93M.aternos.me:53243",
+    "port": 53243,
     "version": "",
     "try-creative": false
   },
